@@ -91,6 +91,8 @@ scikit-learn
 
 TASK 2 :
 
+umemployment data analysis
+
 This project uses Python to analyze unemployment data in India from January to November 2020, with a focus on the impact of Covid-19.
 
 📁 About the Data
