@@ -85,3 +85,71 @@ pandas
 matplotlib
 
 scikit-learn
+
+
+
+
+TASK 2 :
+
+This project uses Python to analyze unemployment data in India from January to November 2020, with a focus on the impact of Covid-19.
+
+📁 About the Data
+
+Source File: Unemployment_Rate_upto_11_2020.csv
+
+Details in the file:
+
+Name of the state (Region)
+
+Date of data (Date)
+
+Unemployment rate (%)
+
+Number of employed people
+
+Labour participation rate
+
+✅ What I Did
+
+Step 1: Data Cleaning
+Fixed column names
+
+Changed Date column into proper date format
+
+Step 2: State-wise Trend
+Plotted line graphs for each state
+
+Showed how unemployment changed month by month
+
+Step 3: Covid-19 Impact
+Compared before March 2020 and after March 2020
+
+Found big rise in unemployment during April–May due to lockdown
+
+Step 4: Month-wise Pattern
+Found which months had highest and lowest unemployment
+
+Displayed as a bar chart
+
+Step 5: Final Insights
+
+📈 Highest unemployment: around 43% in April 2020
+
+📉 Lowest unemployment: around 0.4% in August 2020
+
+Covid-19 had a huge effect on job loss
+
+Recovery started slowly after June
+
+📌 Tools Used
+
+Python
+
+pandas
+
+matplotlib
+
+calendar
+
+
+
